@@ -1,0 +1,23 @@
+.info{
+    text-align: center;
+    background-color: beige;
+}
+
+p:nth-of-type(even){
+    color:darkblue;
+    
+}
+p:nth-of-type(odd){
+    color:dimgrey
+}
+button{
+    padding:10px 20px;
+    background-color: darkred;
+    color:#fff;
+    border-radius: 5px;
+    
+}
+img{
+    width:200px;
+    border:4px solid gray
+}
